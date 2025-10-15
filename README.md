@@ -5,6 +5,7 @@ This project conducts an exploratory data analysis (EDA) on Swiggy's sales data,
 ---
 
 ### About Data:
+- [swiggy data](https://drive.google.com/file/d/1Dc_slYlj0Nv4VfCVAWpkKMurW_fkEYpF/view?usp=sharing)
 - The dataset contains information about various restaurants listed on Swiggy. The informations includes **id**, **name**, **rating**, **cost**, **cuisine** etc.
 
 ### Table of Contents:
