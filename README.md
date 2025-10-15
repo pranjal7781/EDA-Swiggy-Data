@@ -64,7 +64,7 @@ This project conducts an exploratory data analysis (EDA) on Swiggy's sales data,
    - Identifies the most common cuisine types among highly-rated restaurants (rating > 3.5).
    - Utilizes list comprehension and string manipulation to analyze cuisine data.
 
----
+--- 
 
 ## Conclusion
 The analysis provides a comprehensive overview of Swiggy's restaurant data, including insights into ratings, cost, and popular cuisines. This can help Swiggy and restaurant owners to make data-driven decisions.
